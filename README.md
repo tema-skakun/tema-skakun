@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there, I'm Artem Skakun 👋
 
 <!--
 **tema-skakun/tema-skakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

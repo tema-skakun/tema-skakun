@@ -1,6 +1,8 @@
 
 ### Hi there, I'm Artem Skakun 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
 <!--
 **tema-skakun/tema-skakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
